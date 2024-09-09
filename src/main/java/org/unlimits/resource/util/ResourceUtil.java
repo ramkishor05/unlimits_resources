@@ -1,4 +1,4 @@
-package org.unlimits.resources.util;
+package org.unlimits.resource.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

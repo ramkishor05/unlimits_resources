@@ -1,4 +1,4 @@
-package org.unlimits.resources.service;
+package org.unlimits.resource.service;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -11,11 +11,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Service;
-import org.unlimits.resources.entities.EOResource;
-import org.unlimits.resources.mapper.ResourceMapper;
-import org.unlimits.resources.modal.UIResource;
-import org.unlimits.resources.repository.ResourceRepository;
-import org.unlimits.resources.util.ResourceUtil;
+import org.unlimits.resource.entities.EOResource;
+import org.unlimits.resource.mapper.ResourceMapper;
+import org.unlimits.resource.modal.UIResource;
+import org.unlimits.resource.repository.ResourceRepository;
+import org.unlimits.resource.util.ResourceUtil;
 import org.unlimits.rest.crud.mapper.GenericMapper;
 import org.unlimits.rest.crud.service.CrudServiceImpl;
 

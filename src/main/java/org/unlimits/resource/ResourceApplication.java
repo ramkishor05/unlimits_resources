@@ -1,4 +1,4 @@
-package org.unlimits.resources;
+package org.unlimits.resource;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.unlimits.resources.entities;
+package org.unlimits.resource.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
