@@ -9,8 +9,8 @@
 		<artifactId>unlimits-api</artifactId>
 		<version>1.1</version>
 	</parent>
-	<artifactId>unlimits_resources</artifactId>
-	<name>unlimits_resources</name>
+	<artifactId>unlimits_resource</artifactId>
+	<name>unlimits_resource</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>

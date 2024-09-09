@@ -1,4 +1,4 @@
-package org.unlimits.resources.entities;
+package org.unlimits.resource.entities;
 
 import java.io.Serializable;
 import java.util.Date;

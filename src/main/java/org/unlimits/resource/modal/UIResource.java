@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.unlimits.resources.modal;
+package org.unlimits.resource.modal;
 
 /**
  * @author omnie

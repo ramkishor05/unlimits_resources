@@ -1,4 +1,4 @@
-package org.unlimits.resources.controller;
+package org.unlimits.resource.controller;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import org.unlimits.resources.modal.UIResource;
-import org.unlimits.resources.service.ResourceService;
+import org.unlimits.resource.modal.UIResource;
+import org.unlimits.resource.service.ResourceService;
 
 import jakarta.servlet.http.HttpServletRequest;
 

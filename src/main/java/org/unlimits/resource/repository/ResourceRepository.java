@@ -1,8 +1,8 @@
-package org.unlimits.resources.repository;
+package org.unlimits.resource.repository;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-import org.unlimits.resources.entities.EOResource;
+import org.unlimits.resource.entities.EOResource;
 import org.unlimits.rest.repository.CustomRepository;
 
 @Repository

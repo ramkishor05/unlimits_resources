@@ -1,4 +1,4 @@
-package org.unlimits.resources.constants;
+package org.unlimits.resource.constants;
 
 public class Constants {
 	
